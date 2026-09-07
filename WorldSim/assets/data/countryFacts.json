@@ -1,0 +1,1292 @@
+{
+  "IDN": {
+    "population": 283487931,
+    "populationYear": 2024,
+    "gdp": 1371171152331,
+    "gdpYear": 2023
+  },
+  "MYS": {
+    "population": 35557673,
+    "populationYear": 2024,
+    "gdp": 399648828547,
+    "gdpYear": 2023
+  },
+  "CHL": {
+    "population": 19764771,
+    "populationYear": 2024,
+    "gdp": 335533331669,
+    "gdpYear": 2023
+  },
+  "BOL": {
+    "population": 12413315,
+    "populationYear": 2024,
+    "gdp": 45849832906,
+    "gdpYear": 2023
+  },
+  "PER": {
+    "population": 34217848,
+    "populationYear": 2024,
+    "gdp": 267603248655,
+    "gdpYear": 2023
+  },
+  "ARG": {
+    "population": 45696159,
+    "populationYear": 2024,
+    "gdp": 640591410664,
+    "gdpYear": 2023
+  },
+  "CYP": {
+    "population": 1358282,
+    "populationYear": 2024,
+    "gdp": 32229622669,
+    "gdpYear": 2023
+  },
+  "IND": {
+    "population": 1450935791,
+    "populationYear": 2024,
+    "gdp": 3549918918778,
+    "gdpYear": 2023
+  },
+  "CHN": {
+    "population": 1408975000,
+    "populationYear": 2024,
+    "gdp": 17794781986104,
+    "gdpYear": 2023
+  },
+  "ISR": {
+    "population": 9974400,
+    "populationYear": 2024,
+    "gdp": 509901495702,
+    "gdpYear": 2023
+  },
+  "PSE": {
+    "population": 5289152,
+    "populationYear": 2024,
+    "gdp": 17396300000,
+    "gdpYear": 2023
+  },
+  "LBN": {
+    "population": 5805962,
+    "populationYear": 2024,
+    "gdp": 20992421949,
+    "gdpYear": 2022
+  },
+  "ETH": {
+    "population": 132059767,
+    "populationYear": 2024,
+    "gdp": 163697927594,
+    "gdpYear": 2023
+  },
+  "SSD": {
+    "population": 11943408,
+    "populationYear": 2024,
+    "gdp": 11997800760,
+    "gdpYear": 2015
+  },
+  "SOM": {
+    "population": 19009151,
+    "populationYear": 2024,
+    "gdp": 11679800110,
+    "gdpYear": 2023
+  },
+  "KEN": {
+    "population": 56432944,
+    "populationYear": 2024,
+    "gdp": 107440575838,
+    "gdpYear": 2023
+  },
+  "MWI": {
+    "population": 21655286,
+    "populationYear": 2024,
+    "gdp": 14084341062,
+    "gdpYear": 2023
+  },
+  "TZA": {
+    "population": 68560157,
+    "populationYear": 2024,
+    "gdp": 79158286334,
+    "gdpYear": 2023
+  },
+  "SYR": {
+    "population": 24672760,
+    "populationYear": 2024,
+    "gdp": 8980060819,
+    "gdpYear": 2021
+  },
+  "France": {
+    "population": 68551653,
+    "populationYear": 2024,
+    "gdp": 3030904089608,
+    "gdpYear": 2023
+  },
+  "SUR": {
+    "population": 634431,
+    "populationYear": 2024,
+    "gdp": 3782437296,
+    "gdpYear": 2023
+  },
+  "GUY": {
+    "population": 831087,
+    "populationYear": 2024,
+    "gdp": 16786302158,
+    "gdpYear": 2023
+  },
+  "KOR": {
+    "population": 51751065,
+    "populationYear": 2024,
+    "gdp": 1712792854202,
+    "gdpYear": 2023
+  },
+  "PRK": {
+    "population": 26498823,
+    "populationYear": 2024
+  },
+  "MAR": {
+    "population": 38081173,
+    "populationYear": 2024,
+    "gdp": 141109373209,
+    "gdpYear": 2023
+  },
+  "CRI": {
+    "population": 5129910,
+    "populationYear": 2024,
+    "gdp": 86497941439,
+    "gdpYear": 2023
+  },
+  "NIC": {
+    "population": 6916140,
+    "populationYear": 2024,
+    "gdp": 17829215284,
+    "gdpYear": 2023
+  },
+  "COG": {
+    "population": 6332961,
+    "populationYear": 2024,
+    "gdp": 15321055818,
+    "gdpYear": 2023
+  },
+  "COD": {
+    "population": 109276265,
+    "populationYear": 2024,
+    "gdp": 66383287003,
+    "gdpYear": 2023
+  },
+  "BTN": {
+    "population": 791524,
+    "populationYear": 2024,
+    "gdp": 2898227713,
+    "gdpYear": 2022
+  },
+  "UKR": {
+    "population": 37860221,
+    "populationYear": 2024,
+    "gdp": 178757021387,
+    "gdpYear": 2023
+  },
+  "BLR": {
+    "population": 9132629,
+    "populationYear": 2024,
+    "gdp": 71857382746,
+    "gdpYear": 2023
+  },
+  "NAM": {
+    "population": 3030131,
+    "populationYear": 2024,
+    "gdp": 12351024844,
+    "gdpYear": 2023
+  },
+  "ZAF": {
+    "population": 64007187,
+    "populationYear": 2024,
+    "gdp": 377781600986,
+    "gdpYear": 2023
+  },
+  "MAF": {
+    "population": 26129,
+    "populationYear": 2024,
+    "gdp": 649206263,
+    "gdpYear": 2021
+  },
+  "SXM": {
+    "population": 43350,
+    "populationYear": 2024,
+    "gdp": 1623165683,
+    "gdpYear": 2023
+  },
+  "OMN": {
+    "population": 5281538,
+    "populationYear": 2024,
+    "gdp": 108192457737,
+    "gdpYear": 2023
+  },
+  "UZB": {
+    "population": 36361859,
+    "populationYear": 2024,
+    "gdp": 90889149307,
+    "gdpYear": 2023
+  },
+  "KAZ": {
+    "population": 20592571,
+    "populationYear": 2024,
+    "gdp": 261421121086,
+    "gdpYear": 2023
+  },
+  "TJK": {
+    "population": 10590927,
+    "populationYear": 2024,
+    "gdp": 12060602009,
+    "gdpYear": 2023
+  },
+  "LTU": {
+    "population": 2888278,
+    "populationYear": 2024,
+    "gdp": 77836396963,
+    "gdpYear": 2023
+  },
+  "BRA": {
+    "population": 211998573,
+    "populationYear": 2024,
+    "gdp": 2173665655937,
+    "gdpYear": 2023
+  },
+  "URY": {
+    "population": 3386588,
+    "populationYear": 2024,
+    "gdp": 77240831587,
+    "gdpYear": 2023
+  },
+  "MNG": {
+    "population": 3524788,
+    "populationYear": 2024,
+    "gdp": 19872180370,
+    "gdpYear": 2023
+  },
+  "RUS": {
+    "population": 143533851,
+    "populationYear": 2024,
+    "gdp": 2021421476035,
+    "gdpYear": 2023
+  },
+  "CZE": {
+    "population": 10905028,
+    "populationYear": 2024,
+    "gdp": 330858339872,
+    "gdpYear": 2023
+  },
+  "DEU": {
+    "population": 83516593,
+    "populationYear": 2024,
+    "gdp": 4456081016706,
+    "gdpYear": 2023
+  },
+  "EST": {
+    "population": 1372341,
+    "populationYear": 2024,
+    "gdp": 40744848828,
+    "gdpYear": 2023
+  },
+  "LVA": {
+    "population": 1866124,
+    "populationYear": 2024,
+    "gdp": 43627078481,
+    "gdpYear": 2023
+  },
+  "Norway": {
+    "population": 5572279,
+    "populationYear": 2024,
+    "gdp": 485513316504,
+    "gdpYear": 2023
+  },
+  "SWE": {
+    "population": 10569709,
+    "populationYear": 2024,
+    "gdp": 593267701033,
+    "gdpYear": 2023
+  },
+  "FIN": {
+    "population": 5619911,
+    "populationYear": 2024,
+    "gdp": 300187202696,
+    "gdpYear": 2023
+  },
+  "VNM": {
+    "population": 100987686,
+    "populationYear": 2024,
+    "gdp": 429716969050,
+    "gdpYear": 2023
+  },
+  "KHM": {
+    "population": 17638801,
+    "populationYear": 2024,
+    "gdp": 31772759999,
+    "gdpYear": 2023
+  },
+  "LUX": {
+    "population": 677012,
+    "populationYear": 2024,
+    "gdp": 85755006124,
+    "gdpYear": 2023
+  },
+  "ARE": {
+    "population": 10986400,
+    "populationYear": 2024,
+    "gdp": 504173451327,
+    "gdpYear": 2023
+  },
+  "BEL": {
+    "population": 11858610,
+    "populationYear": 2024,
+    "gdp": 632216577075,
+    "gdpYear": 2023
+  },
+  "GEO": {
+    "population": 3699557,
+    "populationYear": 2024,
+    "gdp": 30535530479,
+    "gdpYear": 2023
+  },
+  "MKD": {
+    "population": 1824359,
+    "populationYear": 2024,
+    "gdp": 14761237042,
+    "gdpYear": 2023
+  },
+  "ALB": {
+    "population": 2377128,
+    "populationYear": 2024,
+    "gdp": 22977677861,
+    "gdpYear": 2023
+  },
+  "AZE": {
+    "population": 10202830,
+    "populationYear": 2024,
+    "gdp": 72356176471,
+    "gdpYear": 2023
+  },
+  "Kosovo": {
+    "population": 1594353,
+    "populationYear": 2024,
+    "gdp": 10438351483,
+    "gdpYear": 2023
+  },
+  "TUR": {
+    "population": 85518661,
+    "populationYear": 2024,
+    "gdp": 1108022373260,
+    "gdpYear": 2023
+  },
+  "ESP": {
+    "population": 48848840,
+    "populationYear": 2024,
+    "gdp": 1580694712516,
+    "gdpYear": 2023
+  },
+  "LAO": {
+    "population": 7769819,
+    "populationYear": 2024,
+    "gdp": 15843155731,
+    "gdpYear": 2023
+  },
+  "KGZ": {
+    "population": 7221868,
+    "populationYear": 2024,
+    "gdp": 13987627909,
+    "gdpYear": 2023
+  },
+  "ARM": {
+    "population": 3033500,
+    "populationYear": 2024,
+    "gdp": 24212134631,
+    "gdpYear": 2023
+  },
+  "DNK": {
+    "population": 5976992,
+    "populationYear": 2024,
+    "gdp": 404198757538,
+    "gdpYear": 2023
+  },
+  "LBY": {
+    "population": 7381023,
+    "populationYear": 2024,
+    "gdp": 50491722446,
+    "gdpYear": 2023
+  },
+  "TUN": {
+    "population": 12277109,
+    "populationYear": 2024,
+    "gdp": 48529595417,
+    "gdpYear": 2023
+  },
+  "ROU": {
+    "population": 19051804,
+    "populationYear": 2024,
+    "gdp": 351002579630,
+    "gdpYear": 2023
+  },
+  "HUN": {
+    "population": 9562065,
+    "populationYear": 2024,
+    "gdp": 212388906459,
+    "gdpYear": 2023
+  },
+  "SVK": {
+    "population": 5422069,
+    "populationYear": 2024,
+    "gdp": 132793622283,
+    "gdpYear": 2023
+  },
+  "POL": {
+    "population": 36559233,
+    "populationYear": 2024,
+    "gdp": 811229100688,
+    "gdpYear": 2023
+  },
+  "IRL": {
+    "population": 5395790,
+    "populationYear": 2024,
+    "gdp": 545629450404,
+    "gdpYear": 2023
+  },
+  "GBR": {
+    "population": 69226000,
+    "populationYear": 2024,
+    "gdp": 3340032380668,
+    "gdpYear": 2023
+  },
+  "GRC": {
+    "population": 10405134,
+    "populationYear": 2024,
+    "gdp": 238206312633,
+    "gdpYear": 2023
+  },
+  "ZMB": {
+    "population": 21314956,
+    "populationYear": 2024,
+    "gdp": 28162630954,
+    "gdpYear": 2023
+  },
+  "SLE": {
+    "population": 8642022,
+    "populationYear": 2024,
+    "gdp": 3809832237,
+    "gdpYear": 2023
+  },
+  "GIN": {
+    "population": 14754785,
+    "populationYear": 2024,
+    "gdp": 23612295818,
+    "gdpYear": 2023
+  },
+  "LBR": {
+    "population": 5612817,
+    "populationYear": 2024,
+    "gdp": 4332000000,
+    "gdpYear": 2023
+  },
+  "CAF": {
+    "population": 5330690,
+    "populationYear": 2024,
+    "gdp": 2555492085,
+    "gdpYear": 2023
+  },
+  "SDN": {
+    "population": 50448963,
+    "populationYear": 2024,
+    "gdp": 109327023589,
+    "gdpYear": 2023
+  },
+  "DJI": {
+    "population": 1168722,
+    "populationYear": 2024,
+    "gdp": 4098530514,
+    "gdpYear": 2023
+  },
+  "ERI": {
+    "population": 3535603,
+    "populationYear": 2024,
+    "gdp": 2065001626,
+    "gdpYear": 2011
+  },
+  "AUT": {
+    "population": 9177982,
+    "populationYear": 2024,
+    "gdp": 516034144116,
+    "gdpYear": 2023
+  },
+  "IRQ": {
+    "population": 46042015,
+    "populationYear": 2024,
+    "gdp": 250842782139,
+    "gdpYear": 2023
+  },
+  "ITA": {
+    "population": 58952704,
+    "populationYear": 2024,
+    "gdp": 2254851212732,
+    "gdpYear": 2023
+  },
+  "CHE": {
+    "population": 9005582,
+    "populationYear": 2024,
+    "gdp": 884940402230,
+    "gdpYear": 2023
+  },
+  "IRN": {
+    "population": 91567738,
+    "populationYear": 2024,
+    "gdp": 401504514719,
+    "gdpYear": 2023
+  },
+  "NLD": {
+    "population": 17993485,
+    "populationYear": 2024,
+    "gdp": 1118124749886,
+    "gdpYear": 2023
+  },
+  "LIE": {
+    "population": 40450,
+    "populationYear": 2024,
+    "gdp": 7364654515,
+    "gdpYear": 2022
+  },
+  "CIV": {
+    "population": 31934230,
+    "populationYear": 2024,
+    "gdp": 78788828907,
+    "gdpYear": 2023
+  },
+  "SRB": {
+    "population": 6586476,
+    "populationYear": 2024,
+    "gdp": 75187125427,
+    "gdpYear": 2023
+  },
+  "MLI": {
+    "population": 24478595,
+    "populationYear": 2024,
+    "gdp": 20904898296,
+    "gdpYear": 2023
+  },
+  "SEN": {
+    "population": 18501984,
+    "populationYear": 2024,
+    "gdp": 31013986429,
+    "gdpYear": 2023
+  },
+  "NGA": {
+    "population": 232679478,
+    "populationYear": 2024,
+    "gdp": 362814951696,
+    "gdpYear": 2023
+  },
+  "BEN": {
+    "population": 14462724,
+    "populationYear": 2024,
+    "gdp": 19673284686,
+    "gdpYear": 2023
+  },
+  "AGO": {
+    "population": 37885849,
+    "populationYear": 2024,
+    "gdp": 84722957642,
+    "gdpYear": 2023
+  },
+  "HRV": {
+    "population": 3866200,
+    "populationYear": 2024,
+    "gdp": 82688842717,
+    "gdpYear": 2023
+  },
+  "SVN": {
+    "population": 2127400,
+    "populationYear": 2024,
+    "gdp": 68216781411,
+    "gdpYear": 2023
+  },
+  "QAT": {
+    "population": 2857822,
+    "populationYear": 2024,
+    "gdp": 235770403735,
+    "gdpYear": 2022
+  },
+  "SAU": {
+    "population": 35300280,
+    "populationYear": 2024,
+    "gdp": 1067582933333,
+    "gdpYear": 2023
+  },
+  "BWA": {
+    "population": 2521139,
+    "populationYear": 2024,
+    "gdp": 19395765126,
+    "gdpYear": 2023
+  },
+  "ZWE": {
+    "population": 16634373,
+    "populationYear": 2024,
+    "gdp": 26538273499,
+    "gdpYear": 2023
+  },
+  "PAK": {
+    "population": 251269164,
+    "populationYear": 2024,
+    "gdp": 338368455318,
+    "gdpYear": 2023
+  },
+  "BGR": {
+    "population": 6441421,
+    "populationYear": 2024,
+    "gdp": 101584384673,
+    "gdpYear": 2023
+  },
+  "THA": {
+    "population": 71668011,
+    "populationYear": 2024,
+    "gdp": 514944993834,
+    "gdpYear": 2023
+  },
+  "SMR": {
+    "population": 33977,
+    "populationYear": 2024,
+    "gdp": 1855382833,
+    "gdpYear": 2021
+  },
+  "HTI": {
+    "population": 11772557,
+    "populationYear": 2024,
+    "gdp": 19850829758,
+    "gdpYear": 2023
+  },
+  "DOM": {
+    "population": 11427557,
+    "populationYear": 2024,
+    "gdp": 121444279314,
+    "gdpYear": 2023
+  },
+  "TCD": {
+    "population": 20299123,
+    "populationYear": 2024,
+    "gdp": 13149325359,
+    "gdpYear": 2023
+  },
+  "KWT": {
+    "population": 4897263,
+    "populationYear": 2024,
+    "gdp": 161772221951,
+    "gdpYear": 2023
+  },
+  "SLV": {
+    "population": 6338193,
+    "populationYear": 2024,
+    "gdp": 34015620000,
+    "gdpYear": 2023
+  },
+  "GTM": {
+    "population": 18406359,
+    "populationYear": 2024,
+    "gdp": 102050473864,
+    "gdpYear": 2023
+  },
+  "TLS": {
+    "population": 1400638,
+    "populationYear": 2024,
+    "gdp": 2243142908,
+    "gdpYear": 2023
+  },
+  "BRN": {
+    "population": 462721,
+    "populationYear": 2024,
+    "gdp": 15128292954,
+    "gdpYear": 2023
+  },
+  "MCO": {
+    "population": 38631,
+    "populationYear": 2024,
+    "gdp": 8784002932,
+    "gdpYear": 2022
+  },
+  "DZA": {
+    "population": 46814308,
+    "populationYear": 2024,
+    "gdp": 239899491128,
+    "gdpYear": 2023
+  },
+  "MOZ": {
+    "population": 34631766,
+    "populationYear": 2024,
+    "gdp": 20624597847,
+    "gdpYear": 2023
+  },
+  "SWZ": {
+    "population": 1242822,
+    "populationYear": 2024,
+    "gdp": 4597855845,
+    "gdpYear": 2023
+  },
+  "BDI": {
+    "population": 14047786,
+    "populationYear": 2024,
+    "gdp": 2642161669,
+    "gdpYear": 2023
+  },
+  "RWA": {
+    "population": 14256567,
+    "populationYear": 2024,
+    "gdp": 14097768648,
+    "gdpYear": 2023
+  },
+  "MMR": {
+    "population": 54500091,
+    "populationYear": 2024,
+    "gdp": 64815031669,
+    "gdpYear": 2023
+  },
+  "BGD": {
+    "population": 173562364,
+    "populationYear": 2024,
+    "gdp": 437415331041,
+    "gdpYear": 2023
+  },
+  "AND": {
+    "population": 81938,
+    "populationYear": 2024,
+    "gdp": 3727673593,
+    "gdpYear": 2023
+  },
+  "AFG": {
+    "population": 42647492,
+    "populationYear": 2024,
+    "gdp": 14502158192,
+    "gdpYear": 2022
+  },
+  "MNE": {
+    "population": 623525,
+    "populationYear": 2024,
+    "gdp": 7404541965,
+    "gdpYear": 2023
+  },
+  "BIH": {
+    "population": 3164253,
+    "populationYear": 2024,
+    "gdp": 27054889363,
+    "gdpYear": 2023
+  },
+  "UGA": {
+    "population": 50015092,
+    "populationYear": 2024,
+    "gdp": 49272882214,
+    "gdpYear": 2023
+  },
+  "CUB": {
+    "population": 10979783,
+    "populationYear": 2024,
+    "gdp": 107351800000,
+    "gdpYear": 2020
+  },
+  "HND": {
+    "population": 10825703,
+    "populationYear": 2024,
+    "gdp": 34400509852,
+    "gdpYear": 2023
+  },
+  "ECU": {
+    "population": 18135478,
+    "populationYear": 2024,
+    "gdp": 118844826000,
+    "gdpYear": 2023
+  },
+  "COL": {
+    "population": 52886363,
+    "populationYear": 2024,
+    "gdp": 363540156235,
+    "gdpYear": 2023
+  },
+  "PRY": {
+    "population": 6929153,
+    "populationYear": 2024,
+    "gdp": 42956263544,
+    "gdpYear": 2023
+  },
+  "PRT": {
+    "population": 10694681,
+    "populationYear": 2024,
+    "gdp": 287080013574,
+    "gdpYear": 2023
+  },
+  "MDA": {
+    "population": 2402306,
+    "populationYear": 2024,
+    "gdp": 16539436547,
+    "gdpYear": 2023
+  },
+  "TKM": {
+    "population": 7494498,
+    "populationYear": 2024,
+    "gdp": 59887334844,
+    "gdpYear": 2023
+  },
+  "JOR": {
+    "population": 11552876,
+    "populationYear": 2024,
+    "gdp": 50813642349,
+    "gdpYear": 2023
+  },
+  "NPL": {
+    "population": 29651054,
+    "populationYear": 2024,
+    "gdp": 40908073367,
+    "gdpYear": 2023
+  },
+  "LSO": {
+    "population": 2337423,
+    "populationYear": 2024,
+    "gdp": 2046039024,
+    "gdpYear": 2023
+  },
+  "CMR": {
+    "population": 29123744,
+    "populationYear": 2024,
+    "gdp": 47945510090,
+    "gdpYear": 2023
+  },
+  "GAB": {
+    "population": 2538952,
+    "populationYear": 2024,
+    "gdp": 20516134389,
+    "gdpYear": 2023
+  },
+  "NER": {
+    "population": 27032412,
+    "populationYear": 2024,
+    "gdp": 16819170421,
+    "gdpYear": 2023
+  },
+  "BFA": {
+    "population": 23548781,
+    "populationYear": 2024,
+    "gdp": 20324617839,
+    "gdpYear": 2023
+  },
+  "TGO": {
+    "population": 9515236,
+    "populationYear": 2024,
+    "gdp": 9171261835,
+    "gdpYear": 2023
+  },
+  "GHA": {
+    "population": 34427414,
+    "populationYear": 2024,
+    "gdp": 76370394412,
+    "gdpYear": 2023
+  },
+  "GNB": {
+    "population": 2201352,
+    "populationYear": 2024,
+    "gdp": 1966461400,
+    "gdpYear": 2023
+  },
+  "GIB": {
+    "population": 39329,
+    "populationYear": 2024
+  },
+  "USA": {
+    "population": 340110988,
+    "populationYear": 2024,
+    "gdp": 27360935000000,
+    "gdpYear": 2023
+  },
+  "CAN": {
+    "population": 41288599,
+    "populationYear": 2024,
+    "gdp": 2140085567791,
+    "gdpYear": 2023
+  },
+  "MEX": {
+    "population": 130861007,
+    "populationYear": 2024,
+    "gdp": 1788886821047,
+    "gdpYear": 2023
+  },
+  "BLZ": {
+    "population": 417072,
+    "populationYear": 2024,
+    "gdp": 3281500000,
+    "gdpYear": 2023
+  },
+  "PAN": {
+    "population": 4515577,
+    "populationYear": 2024,
+    "gdp": 83382400000,
+    "gdpYear": 2023
+  },
+  "VEN": {
+    "population": 28405543,
+    "populationYear": 2024,
+    "gdp": 482359318768,
+    "gdpYear": 2014
+  },
+  "PNG": {
+    "population": 10576502,
+    "populationYear": 2024,
+    "gdp": 30932496250,
+    "gdpYear": 2023
+  },
+  "EGY": {
+    "population": 116538258,
+    "populationYear": 2024,
+    "gdp": 395926075163,
+    "gdpYear": 2023
+  },
+  "YEM": {
+    "population": 40583164,
+    "populationYear": 2024,
+    "gdp": 21606160663,
+    "gdpYear": 2018
+  },
+  "MRT": {
+    "population": 5169395,
+    "populationYear": 2024,
+    "gdp": 10452577063,
+    "gdpYear": 2023
+  },
+  "GNQ": {
+    "population": 1892516,
+    "populationYear": 2024,
+    "gdp": 12116922539,
+    "gdpYear": 2023
+  },
+  "GMB": {
+    "population": 2759988,
+    "populationYear": 2024,
+    "gdp": 2339904157,
+    "gdpYear": 2023
+  },
+  "HKG": {
+    "population": 7524100,
+    "populationYear": 2024,
+    "gdp": 382054574299,
+    "gdpYear": 2023
+  },
+  "AUS": {
+    "population": 27196812,
+    "populationYear": 2024,
+    "gdp": 1723827215335,
+    "gdpYear": 2023
+  },
+  "GRL": {
+    "population": 56836,
+    "populationYear": 2024,
+    "gdp": 3235809504,
+    "gdpYear": 2021
+  },
+  "FJI": {
+    "population": 928784,
+    "populationYear": 2024,
+    "gdp": 5494797541,
+    "gdpYear": 2023
+  },
+  "NZL": {
+    "population": 5287500,
+    "populationYear": 2024,
+    "gdp": 253465703232,
+    "gdpYear": 2023
+  },
+  "NCL": {
+    "population": 292639,
+    "populationYear": 2024,
+    "gdp": 9623318718,
+    "gdpYear": 2022
+  },
+  "MDG": {
+    "population": 31964956,
+    "populationYear": 2024,
+    "gdp": 16031702915,
+    "gdpYear": 2023
+  },
+  "PHL": {
+    "population": 115843670,
+    "populationYear": 2024,
+    "gdp": 437146372730,
+    "gdpYear": 2023
+  },
+  "LKA": {
+    "population": 21916000,
+    "populationYear": 2024,
+    "gdp": 84356860421,
+    "gdpYear": 2023
+  },
+  "CUW": {
+    "population": 155967,
+    "populationYear": 2024,
+    "gdp": 3073840325,
+    "gdpYear": 2022
+  },
+  "ABW": {
+    "population": 107995,
+    "populationYear": 2024,
+    "gdp": 3544707788,
+    "gdpYear": 2022
+  },
+  "BHS": {
+    "population": 401283,
+    "populationYear": 2024,
+    "gdp": 14338500000,
+    "gdpYear": 2023
+  },
+  "TCA": {
+    "population": 46535,
+    "populationYear": 2024,
+    "gdp": 1402054391,
+    "gdpYear": 2023
+  },
+  "JPN": {
+    "population": 123975371,
+    "populationYear": 2024,
+    "gdp": 4212945159781,
+    "gdpYear": 2023
+  },
+  "ISL": {
+    "population": 386506,
+    "populationYear": 2024,
+    "gdp": 31020032583,
+    "gdpYear": 2023
+  },
+  "PYF": {
+    "population": 281807,
+    "populationYear": 2024,
+    "gdp": 5814661209,
+    "gdpYear": 2022
+  },
+  "SYC": {
+    "population": 121354,
+    "populationYear": 2024,
+    "gdp": 2141450171,
+    "gdpYear": 2023
+  },
+  "KIR": {
+    "population": 134518,
+    "populationYear": 2024,
+    "gdp": 279034355,
+    "gdpYear": 2023
+  },
+  "MHL": {
+    "population": 37548,
+    "populationYear": 2024,
+    "gdp": 284000000,
+    "gdpYear": 2023
+  },
+  "TTO": {
+    "population": 1368333,
+    "populationYear": 2024,
+    "gdp": 28139944790,
+    "gdpYear": 2023
+  },
+  "GRD": {
+    "population": 117207,
+    "populationYear": 2024,
+    "gdp": 1320334236,
+    "gdpYear": 2023
+  },
+  "VCT": {
+    "population": 100616,
+    "populationYear": 2024,
+    "gdp": 1065962963,
+    "gdpYear": 2023
+  },
+  "BRB": {
+    "population": 282467,
+    "populationYear": 2024,
+    "gdp": 6393564190,
+    "gdpYear": 2023
+  },
+  "LCA": {
+    "population": 179744,
+    "populationYear": 2024,
+    "gdp": 2519925939,
+    "gdpYear": 2023
+  },
+  "DMA": {
+    "population": 66205,
+    "populationYear": 2024,
+    "gdp": 653992593,
+    "gdpYear": 2023
+  },
+  "ATG": {
+    "population": 93772,
+    "populationYear": 2024,
+    "gdp": 2033085185,
+    "gdpYear": 2023
+  },
+  "KNA": {
+    "population": 46843,
+    "populationYear": 2024,
+    "gdp": 1077033111,
+    "gdpYear": 2023
+  },
+  "VIR": {
+    "population": 104377,
+    "populationYear": 2024,
+    "gdp": 4444000000,
+    "gdpYear": 2021
+  },
+  "PRI": {
+    "population": 3203295,
+    "populationYear": 2024,
+    "gdp": 117902300000,
+    "gdpYear": 2023
+  },
+  "VGB": {
+    "population": 39471,
+    "populationYear": 2024
+  },
+  "JAM": {
+    "population": 2839175,
+    "populationYear": 2024,
+    "gdp": 19423355367,
+    "gdpYear": 2023
+  },
+  "CYM": {
+    "population": 74457,
+    "populationYear": 2024,
+    "gdp": 6600844002,
+    "gdpYear": 2022
+  },
+  "BMU": {
+    "population": 64636,
+    "populationYear": 2024,
+    "gdp": 7827980000,
+    "gdpYear": 2022
+  },
+  "MUS": {
+    "population": 1245779,
+    "populationYear": 2024,
+    "gdp": 14397127281,
+    "gdpYear": 2023
+  },
+  "COM": {
+    "population": 866628,
+    "populationYear": 2024,
+    "gdp": 1352380972,
+    "gdpYear": 2023
+  },
+  "STP": {
+    "population": 235536,
+    "populationYear": 2024,
+    "gdp": 603240749,
+    "gdpYear": 2023
+  },
+  "CPV": {
+    "population": 524877,
+    "populationYear": 2024,
+    "gdp": 2587252076,
+    "gdpYear": 2023
+  },
+  "MLT": {
+    "population": 568847,
+    "populationYear": 2024,
+    "gdp": 20956999452,
+    "gdpYear": 2023
+  },
+  "IMN": {
+    "population": 84160,
+    "populationYear": 2024,
+    "gdp": 7931193222,
+    "gdpYear": 2021
+  },
+  "FRO": {
+    "population": 54681,
+    "populationYear": 2024,
+    "gdp": 3555929833,
+    "gdpYear": 2022
+  },
+  "SGP": {
+    "population": 6036860,
+    "populationYear": 2024,
+    "gdp": 501427500080,
+    "gdpYear": 2023
+  },
+  "TON": {
+    "population": 104175,
+    "populationYear": 2024,
+    "gdp": 500274898,
+    "gdpYear": 2022
+  },
+  "WSM": {
+    "population": 218019,
+    "populationYear": 2024,
+    "gdp": 934100336,
+    "gdpYear": 2023
+  },
+  "SLB": {
+    "population": 819198,
+    "populationYear": 2024,
+    "gdp": 1631286701,
+    "gdpYear": 2023
+  },
+  "TUV": {
+    "population": 9646,
+    "populationYear": 2024,
+    "gdp": 62280312,
+    "gdpYear": 2023
+  },
+  "MDV": {
+    "population": 527799,
+    "populationYear": 2024,
+    "gdp": 6600000000,
+    "gdpYear": 2023
+  },
+  "NRU": {
+    "population": 11947,
+    "populationYear": 2024,
+    "gdp": 154127798,
+    "gdpYear": 2023
+  },
+  "FSM": {
+    "population": 113160,
+    "populationYear": 2024,
+    "gdp": 460000000,
+    "gdpYear": 2023
+  },
+  "VUT": {
+    "population": 327777,
+    "populationYear": 2024,
+    "gdp": 1126313359,
+    "gdpYear": 2023
+  },
+  "ASM": {
+    "population": 46765,
+    "populationYear": 2024,
+    "gdp": 871000000,
+    "gdpYear": 2022
+  },
+  "PLW": {
+    "population": 17695,
+    "populationYear": 2024,
+    "gdp": 263020734,
+    "gdpYear": 2023
+  },
+  "GUM": {
+    "population": 167777,
+    "populationYear": 2024,
+    "gdp": 6910000000,
+    "gdpYear": 2022
+  },
+  "MNP": {
+    "population": 44278,
+    "populationYear": 2024,
+    "gdp": 858000000,
+    "gdpYear": 2020
+  },
+  "BHR": {
+    "population": 1588670,
+    "populationYear": 2024,
+    "gdp": 43205000000,
+    "gdpYear": 2023
+  },
+  "MAC": {
+    "population": 687000,
+    "populationYear": 2024,
+    "gdp": 47061843716,
+    "gdpYear": 2023
+  }
+}

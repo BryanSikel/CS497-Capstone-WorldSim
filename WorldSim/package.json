@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "dependencies": {
     "@expo/ui": "~57.0.9",
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "d3-geo": "^3.1.1",
     "expo": "~57.0.11",
     "expo-constants": "~57.0.9",
     "expo-device": "~57.0.1",
@@ -20,14 +22,17 @@
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "react-native": "0.86.2",
+    "react-native-country-flag": "^2.0.2",
     "react-native-gesture-handler": "~2.32.0",
     "react-native-reanimated": "4.5.1",
     "react-native-safe-area-context": "~5.7.0",
     "react-native-screens": "~4.26.0",
+    "react-native-svg": "15.15.4",
     "react-native-web": "~0.21.0",
     "react-native-worklets": "0.10.1"
   },
   "devDependencies": {
+    "@types/d3-geo": "^3.1.1",
     "@types/react": "~19.2.2",
     "typescript": "~6.0.3"
   },
